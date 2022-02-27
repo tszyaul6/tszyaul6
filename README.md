@@ -1,6 +1,6 @@
 # Self-intro
 
-👋🏻 Hello! This is Bowie, a software engineer live in Hong Kong
+👋🏻 Hello! This is Bowie, a software engineer who lives in Hong Kong
 
 🌱 I'm currently learning webapp technologies, like AWS, TypeScript and Next.js
 
